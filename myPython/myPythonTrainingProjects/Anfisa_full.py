@@ -1,3 +1,5 @@
+# Помошник Анфиса
+# Итоговая работа бесплатного курса по Python от Яндекс Практикум
 import datetime as dt
 import requests
 
@@ -131,3 +133,4 @@ def runner():
         print(query, '-', process_query(query))
 
 runner()
+
