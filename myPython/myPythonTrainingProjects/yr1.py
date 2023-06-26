@@ -1,9 +1,8 @@
 ii = 0
-array_y = [2,4,3,5,7,9,1]
-while [ii<6]:
-    print ('array_y ', [ii], ' : ', array_y [ii])
+bas = [2,4,3,5,7,9,1]
+while ii<6:
+    print('bas ', [ii], ' : ', bas[ii])
     ii = ii+1
-
 
 for i in range (5,10):
     print (i*i)
