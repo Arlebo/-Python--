@@ -9,7 +9,6 @@ cities = [
     'Москва',
     'Екатеринбург'
 ]
-
 def make_url(city):
     # в URL задаём город, в котором узнаем погоду
     return f'http://wttr.in/{city}'
