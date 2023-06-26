@@ -1,3 +1,4 @@
+# Камень ножницы бумага
 # Shoddy procedural code
 import random
 
